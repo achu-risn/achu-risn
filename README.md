@@ -2,7 +2,6 @@
 - 👀 I’m interested in learning more about programming, code, and the project iteration processes.
 - 🌱 I’m currently learning this, github.
 - 💞️ I’m looking to collaborate on work at the moment.
-- 📫 How to reach me -- does this have internal messaging?
 
 <!---
 achu-risn/achu-risn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
